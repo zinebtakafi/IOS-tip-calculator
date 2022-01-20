@@ -12,6 +12,13 @@ The following **required** functionality is complete:
 
 * [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/EDkfrLeyDO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit](https://recordit.co/).
 
 ## License
 
